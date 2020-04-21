@@ -1,0 +1,21 @@
+{
+    "name": "1-Basics",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "1-basics": "github:sf-sg/1-basics"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
